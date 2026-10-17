@@ -1,6 +1,6 @@
 ## Valentines Mail Game
 
-**[View live preview here](https://annasmith206.github.io/Valentines-Mailbox/)**
+**[View live preview here](https://f3lipel4w.github.io/Valentines-Mailbox/)**
 
 ![Image of game showing a pixel art pink mailbox with a welcome message.](./images/gameStartPreview.png)|![Image of game showing a pixel art picture of a cat in a cardboard box.](./images/catPreview.png)|
 | ----------- | ----------- |
@@ -8,7 +8,7 @@
 
 
 ## About
-For Valentines Day 2024, I put together this simple JavaScript website as a gift to my boyfriend. I wanted to make something personal, that included my art and was tailored to my boyfriend's interests. This project allowed me to do both, while simultaneously giving me a chance to practice my vanilla JavaScript and CSS skills. 
+For our 4 months together in 2026, I put together this simple JavaScript website as a gift to my girlfriend. I wanted to make something personal, that included my art. Giving me a chance to practice my vanilla JavaScript and CSS skills. 
 
 This game lets the user interact with a love-letter mailbox by entering a mailbox, and then viewing/opening various "letters". As the game progresses, different messages are displayed to acompany the content. 
 
