@@ -19,7 +19,7 @@ const cards = {
     ],
     images: [
         "./images/tiles.png",
-        "./images/lipe2.png",
+        "./images/quest.png",
         "./images/torchic.png",
         "./images/chipi.gif",
         "./images/treasure.png"
