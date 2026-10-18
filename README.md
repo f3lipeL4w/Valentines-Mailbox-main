@@ -1,6 +1,6 @@
 ## Valentines Mail Game
 
-**[View live preview here](https://f3lipel4w.github.io/Valentines-Mailbox/)**
+**[View live preview here](https://f3lipel4w.github.io/Valentines-Mailbox-main/)**
 
 ![Image of game showing a pixel art pink mailbox with a welcome message.](./images/gameStartPreview.png)|![Image of game showing a pixel art picture of a cat in a cardboard box.](./images/catPreview.png)|
 | ----------- | ----------- |
